@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi, I'm Soumen Das 👋  
 🚀 I'm interested in Web/App Development and IoT.  
 🌱 I'm currently learning **React + Node.js + MongoDB**.  
