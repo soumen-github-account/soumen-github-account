@@ -2,14 +2,15 @@
 🚀 I'm interested in Web/App Development and IoT.  
 🌱 I'm currently learning **React + Node.js + MongoDB**.  
 🤝 I'm looking to collaborate on creating functional websites.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link/)  
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/soumen-das-07b2b2328)  
 😄 Pronouns: he/him  
 ⚡ Fun fact: I love coding and experimenting with ESPs!
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/soumen-das-07b2b2328)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/soumen-leetcode/)
 
 ---
 
