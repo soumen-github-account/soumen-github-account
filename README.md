@@ -5,7 +5,8 @@
 💡 Exploring **Artificial Intelligence**, **Machine Learning**, and **Java Development**  
 🤝 Looking to collaborate on impactful and creative projects  
 ⚡ Fun fact: I love building things that combine **hardware and software** — especially using ESPs!  
-📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/soumen-das-07b2b2328)**  
+📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/soumen-das-07b2b2328)** 
+💻 Usefull Code **[GitHub](https://github.com/soumen-github-account/Useful_component_for_web_project)** 
 
 ---
 
